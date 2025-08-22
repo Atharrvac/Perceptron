@@ -1,0 +1,6 @@
+
+{
+  "name": "HDTN Connect",
+  "description": "HDTN Connect is a platform for users to manage profiles, view tasks on a map, and communicate with AI-assisted multilingual chat. It aims to connect individuals with local opportunities and support networks, featuring avatar representation and achievement tracking.",
+  "requestFramePermissions": ["geolocation"]
+}
